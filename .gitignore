@@ -5,3 +5,4 @@ bin/
 .vs/
 .vscode/
 lib/Assembly-CSharp.dll
+Builds/
