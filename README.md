@@ -4,6 +4,13 @@ A new card, Crocadile. Along with a custom sigil, Toothy.
 - Crocadile: A +1 +2 Reptile Card with a cost of 1 and the Toothy Sigil. The gimmick is the crocadile has so many teeth, they fall out as it takes damage.
 - Toothy: When this creature takes damage, it will award teeth equal to the damage taken.
 
+## Installation (automated)
+This is the recommended way to install the API on the game.
+
+- Download and install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or [r2modman](https://timberborn.thunderstore.io/package/ebkr/r2modman/)
+- Click Install with Mod Manager button on top of the [page](https://inscryption.thunderstore.io/package/Phantom/Croc_And_Tooth/)
+- Run the game via the mod manager
+
 ## Installation (manual)
 To install this plugin first you need to install BepInEx as a mod loader for Inscryption. A guide to do this can be found [here](https://docs.bepinex.dev/articles/user_guide/installation/index.html#where-to-download-bepinex). Inscryption needs the 86x (32 bit) mono version.
 
