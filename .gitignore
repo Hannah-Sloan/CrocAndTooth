@@ -6,3 +6,5 @@ bin/
 .vscode/
 lib/Assembly-CSharp.dll
 Builds/
+icon.png
+manifest.json
