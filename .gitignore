@@ -1,0 +1,7 @@
+Assembly-CSharp.dll
+obj/
+bin/
+.idea/
+.vs/
+.vscode/
+lib/Assembly-CSharp.dll
